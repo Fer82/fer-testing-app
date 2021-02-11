@@ -1,0 +1,24 @@
+#navbarSupportedContent {
+    margin: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+
+.navbar {
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgb(235, 187, 98) 50%, rgba(0,212,255,1) 100%);
+}
+
+#name {
+    color: rgba(0, 0, 0, 0.561);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 27px;
+}
+
+.nav-link {
+    font-size: 27px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    color: rgba(0, 0, 0, 0.657);
+}
+
+.text-color {
+    color: rgba(128, 128, 128, 0);
+}

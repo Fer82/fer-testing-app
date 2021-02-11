@@ -1,0 +1,12 @@
+.wrapper {
+    background-color: lightblue; 
+    position: relative;
+    min-height: 100vh;
+    background-size: auto;
+    background-repeat: no-repeat; 
+    background-image: url("../../assets/images/background.portfolio2.jpg");
+    background-size: cover;
+}
+
+
+

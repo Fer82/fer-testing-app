@@ -1,0 +1,27 @@
+.parent {
+    height: auto;
+    display: grid;
+    grid-gap: 1.5rem;
+    grid-template-columns: 1fr; 
+}
+​
+.card, .card-body-content {
+    min-width: 250px;
+    min-height: 330px;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    justify-content: space-between;    
+}
+​
+.card-text {
+    min-height: 144px;
+}
+​
+.card-button {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;    
+}
