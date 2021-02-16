@@ -10,7 +10,7 @@
 
 #greeting {
   text-align: center;
-  color: white;
+  color: rgba(0,212,255,1) 0%, rgb(235, 187, 98) 50%, rgba(0,212,255,1);
 }
 
 .social-image {
@@ -22,7 +22,7 @@
 #role {
   text-align: center;
   margin-top: 20px;
-  color: white;
+  color: rgba(0,212,255,1) 0%, rgb(235, 187, 98) 50%, rgba(0,212,255,1);
 }
 
 #social {

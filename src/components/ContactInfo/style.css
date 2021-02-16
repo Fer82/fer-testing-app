@@ -4,16 +4,17 @@
 }
 
 .form-group {
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
     font-size: 30px;
 }
 
 #contact {
     color: black;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
     font-size: 40px;
 }
 
 #me {
     color: rgb(98, 235, 128);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
 }

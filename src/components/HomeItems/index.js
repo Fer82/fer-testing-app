@@ -15,7 +15,7 @@ function HomeItems() {
                     </div>
                 </div>
             </div>
-            <h1 id="greeting">Hello! I'm <span><strong>Fernando Angulo Donoso</strong></span>!</h1>
+            <h1 id="greeting"><span><strong>Fernando Angulo Donoso</strong></span></h1>
             <h5 id="role">Full Stack Web Developer | Software Support Specialist</h5>
             <div id="social">
                 <a href="https://github.com/Fer82" target="_blank" rel="noreferrer"><img src={github} alt="github" className="social-image"></img></a>{' '}

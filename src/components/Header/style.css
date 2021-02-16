@@ -1,4 +1,4 @@
-#navbarSupportedContent {
+#navbarText {
     margin: 20px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
 }
@@ -8,7 +8,7 @@
 }
 
 #name {
-    color: rgba(0, 0, 0, 0.561);
+    color: black;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
     font-size: 27px;
 }
@@ -20,5 +20,6 @@
 }
 
 .text-color {
-    color: rgba(128, 128, 128, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    color: black;
 }

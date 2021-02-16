@@ -9,7 +9,7 @@ function AboutMe() {
       <div className="col-md-9 col-sm-12">
         <div className="card bg-light">
           <div className="card-body">
-            <h1 className="card-title" title="About Me"><span id="about">About</span> <span id='me'><strong>Me</strong></span></h1>
+            <h1 className="card-title" title="About Me"><span id="about">About</span> <span id="me"><strong>Me</strong></span></h1>
             <hr></hr>
             <div id="about-me-image">
               <img src={fernando} alt="Fernando Angulo Donoso" className="img-thumbnail shadow" title="Fernando Angulo Donoso"></img>
@@ -28,7 +28,7 @@ function AboutMe() {
             </div>
             <div style={{ clear: 'both' }}>
               <hr></hr>
-              <p style={{ textAlign: "center" }}>Click <a href="assets/Fernando Angulo Donoso Resume.pdf" target="_blank" title="resume">here</a> to view my current resume!</p>
+              <p style={{ textAlign: "center" }}>Click <a href="Assets/Fernando Angulo Donoso Resume.pdf" target="_blank" title="resume">here</a> to view my current resume!</p>
             </div>
           </div>
         </div>

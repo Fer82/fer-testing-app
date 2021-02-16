@@ -1,46 +1,44 @@
 #about-me-image {
-    width: 45%;
-    float: left;
-    margin-right: 30px;
-  }
-  
-  #color {
-    background-color: lightgrey;
-  }
-  
-  .card {
-    margin: 20px;
-  }
-  
-  #about {
-    color: black;
-    font-family: 'Nunito', sans-serif;
-    font-size: 40px;
-  }
-  
-  #me {
-    color: rgba(0,212,255,1);
-  }
-  
-  h3 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
-  }
-  
-  .skill {
-    border-style: solid;
-    border-color: rgb(235, 187, 98);
-    border-radius: 10px;
-    background-color: rgba(0,212,255,1);
-    padding: 3px;
-    float: left;
-    margin: 5px;
-  }
-  
-  .skill:hover {
-    background-color: grey;
-    border-color: grey;
-  }
-  
-  
-  
-  
+  width: 45%;
+  float: left;
+  margin-right: 30px;
+}
+
+#color {
+  background-color: lightgrey;
+}
+
+.card {
+  margin: 20px;
+}
+
+#about {
+  color: black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+  font-size: 40px;
+}
+
+span#me {
+  color: rgba(0,212,255,1);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+  font-size: 40px;
+}
+
+h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+}
+
+.skill {
+  border-style: solid;
+  border-color: rgb(235, 187, 98);
+  border-radius: 10px;
+  background-color: rgba(0, 212, 255, 1);
+  padding: 3px;
+  float: left;
+  margin: 5px;
+}
+
+.skill:hover {
+  background-color: grey;
+  border-color: grey;
+}
